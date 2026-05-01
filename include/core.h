@@ -1,5 +1,7 @@
 #pragma once
 
+#include <stdbool.h>
+
 #ifdef __cplusplus
 #include <opencv2/core.hpp>
 extern "C"
